@@ -89,6 +89,7 @@ public class GuideActivity extends Activity implements OnPageChangeListener,OnCl
 		viewPager.setAdapter(pagerAdapter); // 设置适配器
 		viewPager.addOnPageChangeListener(this);
 
+		viewPager.setCurrentItem(0);//设置ViewPager的默认项, 开始时不能往左滑动
 		//viewPager.setCurrentItem(views.size() * 100);//开始即可向左轮播，若不设置开始时不可向左
 	}
 
