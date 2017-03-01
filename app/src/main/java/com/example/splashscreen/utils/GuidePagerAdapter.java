@@ -28,12 +28,20 @@ public class GuidePagerAdapter extends PagerAdapter{
 		//return  Integer.MAX_VALUE;//循环轮播
 	}
 
+	/**
+         * 当只有3张图片或者2张图片的时候，滑动存在BUG，需要注释掉removeView()
+         */
 	@Override
 	public void destroyItem(View container, int position, Object object) {
 		((ViewPager) container).removeView(views.get(position));//非循环轮播
 		//((ViewPager) container).removeView(views.get(position % views.size()));//循环轮播需注销
 	}
 
+	/**
+         * 载入图片进去，用当前的position 除以 图片数组长度取余数是关键
+         *
+         * 当只有3张图片或者2张图片的时候，滑动存在BUG，需要捕获异常，即使用try...catch
+         */
 	@Override
 	public Object instantiateItem(View container, int position) {
 		//非循环轮播
