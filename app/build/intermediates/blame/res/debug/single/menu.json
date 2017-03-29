@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\splash\\SplashScreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\splash\\SplashScreen\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Git\\SplashScreen\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Git\\SplashScreen\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

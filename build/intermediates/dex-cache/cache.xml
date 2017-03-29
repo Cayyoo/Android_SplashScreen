@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_4aea1ec287a900e4d3a89b9ce353237490551a9b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_29e8f1edb8eefeb67db07779bf4c9a18d144c16d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_aa1bc10fae50ab408ea1d94c28a7787568cea438.jar" />
-    </item>
-    <item
         jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c9fae43cda2e1c04b2ab0de43a8f148b5b1a92fa.jar" />
+        <dex dex="D:\Git\SplashScreen\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c9fae43cda2e1c04b2ab0de43a8f148b5b1a92fa.jar" />
     </item>
     <item
-        jar="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_12428f8e3577ed3a1a4c659bb4d6d3493596e27f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_28f29ba0d07dc58bfc6d1efc981d8608573de48c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e1103b15d62448d437fe515257eeb359a320f203.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jar="D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="C:\Users\Administrator\Desktop\splash\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_88a69087919ce70ec26e77b188aa2d18a09dfcc7.jar" />
+        <dex dex="D:\Git\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_291a5aa86329a12f4fe92c4d52de86aadc52088a.jar" />
+    </item>
+    <item
+        jar="D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Git\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_731e87b2bf6e2213973abbcce8e6f456bba100a4.jar" />
+    </item>
+    <item
+        jar="D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Git\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_ff9fee7b1329c80a18104084e846029489a76396.jar" />
+    </item>
+    <item
+        jar="D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Git\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_1514011c3533aee07a6126f0c4d344717feb3eb5.jar" />
+    </item>
+    <item
+        jar="D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Git\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_78e29a8554e3629373aeb00f652adadd42d1b85b.jar" />
+    </item>
+    <item
+        jar="D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Git\SplashScreen\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_022a018cedd30ddc83482e69113507c52c3539c2.jar" />
+    </item>
+    <item
+        jar="D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Git\SplashScreen\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_2b1e0be77479aeab6c248993d68d09bd64183dd6.jar" />
     </item>
 
 </items>

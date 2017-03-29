@@ -22,7 +22,7 @@ import com.example.splashscreen.utils.CreateShut;
 import com.example.splashscreen.utils.SharedConfig;
 
 /**
- * 第一次运行的引导页代码
+ * 引导页
  */
 public class GuideActivity extends Activity implements OnPageChangeListener,OnClickListener {
 	private Context context;
