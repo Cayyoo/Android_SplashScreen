@@ -2,6 +2,7 @@ package com.example.splashscreen;
 
 import android.os.Bundle;
 import android.os.Handler;
+import android.view.KeyEvent;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -178,4 +179,17 @@ public class SplashActivity extends Activity {
 		}
 	}
 
+	/**
+	 * 屏蔽物理返回按键
+	 * @param keyCode
+	 * @param event
+	 * @return
+	 */
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		if (keyCode == KeyEvent.KEYCODE_BACK)
+			return true;
+
+		return super.onKeyDown(keyCode, event);
+	}
 }
