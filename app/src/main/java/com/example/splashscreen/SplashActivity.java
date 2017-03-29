@@ -116,7 +116,8 @@ public class SplashActivity extends Activity {
 							if (first) {
 								intent = new Intent(SplashActivity.this,GuideActivity.class);
 							} else {
-								intent = new Intent(SplashActivity.this,MainActivity.class);
+								//intent = new Intent(SplashActivity.this,MainActivity.class);
+								intent = new Intent(SplashActivity.this,AdPageActivity.class);
 							}
 
 							startActivity(intent);

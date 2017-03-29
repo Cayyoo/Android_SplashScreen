@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
 		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml
@@ -102,7 +102,7 @@ ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:24:5-79
 	android:name
 		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:24:22-76
 application
-ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:26:5-49:19
+ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:26:5-52:19
 MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Git\SplashScreen\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
@@ -148,17 +148,23 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
 		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:39:27-74
-activity#com.example.splashscreen.GuideActivity
-ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:43:9-44:81
+activity#com.example.splashscreen.AdPageActivity
+ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:43:9-44:79
 	android:theme
 		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:44:13-77
 	android:name
-		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:43:19-72
-activity#com.example.splashscreen.MainActivity
-ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:46:9-48:46
-	android:launchMode
-		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:48:13-44
+		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:43:19-49
+activity#com.example.splashscreen.GuideActivity
+ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:46:9-47:81
 	android:theme
-		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:47:13-71
+		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:47:13-77
 	android:name
-		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:46:19-71
+		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:46:19-72
+activity#com.example.splashscreen.MainActivity
+ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:49:9-51:46
+	android:launchMode
+		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:51:13-44
+	android:theme
+		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:50:13-71
+	android:name
+		ADDED from D:\Git\SplashScreen\app\src\main\AndroidManifest.xml:49:19-71

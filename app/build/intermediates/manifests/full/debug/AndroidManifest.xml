@@ -40,6 +40,9 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.example.splashscreen.AdPageActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
+        <activity
             android:name="com.example.splashscreen.GuideActivity"
             android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
         <activity
