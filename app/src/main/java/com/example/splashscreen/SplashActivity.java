@@ -17,6 +17,7 @@ import android.content.SharedPreferences;
 import com.example.splashscreen.utils.NetManager;
 import com.example.splashscreen.utils.SharedConfig;
 
+
 /**
  * 本例只要设置图片就行了，指示器、ViewPage页都是自动添加的。这样在以后升级版本时，如果引导页数目发生变动，只需要替换图片就行了。
  *
