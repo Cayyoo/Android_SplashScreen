@@ -23,6 +23,15 @@ Demo的流程是：闪屏->引导页->主页
  * 6、配置管理
  * 7、引导页
 
+![rotate](https://github.com/ykmeory/SplashScreen/blob/master/img_folder/slpash_rotate.jpg "rotate")
+&nbsp;&nbsp;&nbsp;
+![ad](https://github.com/ykmeory/SplashScreen/blob/master/img_folder/ad.jpg "ad")
+&nbsp;&nbsp;&nbsp;
 ![guide](https://github.com/ykmeory/SplashScreen/blob/master/img_folder/guide.jpg "guide")
 &nbsp;&nbsp;&nbsp;
 ![main](https://github.com/ykmeory/SplashScreen/blob/master/img_folder/main.jpg "main")
+&nbsp;&nbsp;&nbsp;
+![transparent](https://github.com/ykmeory/SplashScreen/blob/master/img_folder/slpash_alpha_transparent.jpg "transparent")
+&nbsp;&nbsp;&nbsp;
+![opaque](https://github.com/ykmeory/SplashScreen/blob/master/img_folder/slpash_alpha_opaque.jpg "opaque")
+&nbsp;&nbsp;&nbsp;
